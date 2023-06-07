@@ -4,7 +4,7 @@
     background: yellow;
 }
 
-.lesson-four-task-two h1:hover {
+.lesson-four-task-two .link:hover ~ h1{
     background: green;
 }
 
